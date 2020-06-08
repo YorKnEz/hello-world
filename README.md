@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+This repository was made by YorKnEz to help him learn about repositories and branches.
